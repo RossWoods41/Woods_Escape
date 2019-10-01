@@ -1,0 +1,1631 @@
+﻿Log file open, 10/01/19 10:41:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Woods_Escape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065430
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-14.41.39:684][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.01-14.41.39:684][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.01-14.41.39:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-14.41.39:685][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-14.41.39:687][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-14.41.39:688][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-14.41.39:688][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.01-14.41.39:690][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.01-14.41.39:690][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.01-14.41.39:690][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-14.41.39:690][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-14.41.39:691][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.01-14.41.39:691][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.01-14.41.39:692][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.01-14.41.39:692][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-14.41.39:692][  0]LogInit: Computer: NQSCGL-MSI-02
+[2019.10.01-14.41.39:692][  0]LogInit: User: jwoods2
+[2019.10.01-14.41.39:692][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.01-14.41.39:692][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.01-14.41.39:692][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.01-14.41.39:692][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.01-14.41.39:692][  0]LogMemory: Process Physical Memory: 100.33 MB used, 100.33 MB peak
+[2019.10.01-14.41.39:692][  0]LogMemory: Process Virtual Memory: 88.44 MB used, 88.44 MB peak
+[2019.10.01-14.41.39:692][  0]LogMemory: Physical Memory: 7746.88 MB used,  24965.64 MB free, 32712.53 MB total
+[2019.10.01-14.41.39:692][  0]LogMemory: Virtual Memory: 4656.52 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.01-14.41.39:694][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.01-14.41.39:714][  0]LogInit: Using OS detected language (en-US).
+[2019.10.01-14.41.39:714][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.01-14.41.39:714][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.01-14.41.39:862][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.01-14.41.39:894][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.01-14.41.39:894][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.01-14.41.40:092][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-14.41.40:092][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.01-14.41.40:154][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.01-14.41.40:154][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.01-14.41.40:156][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.01-14.41.40:156][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.01-14.41.40:156][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.01-14.41.40:162][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.01-14.41.40:162][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.01-14.41.40:162][  0]LogWindows: EnumDisplayDevices:
+[2019.10.01-14.41.40:163][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.01-14.41.40:163][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.01-14.41.40:163][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.01-14.41.40:164][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.01-14.41.40:164][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.01-14.41.40:164][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.01-14.41.40:164][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.10.01-14.41.40:164][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.10.01-14.41.40:164][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.01-14.41.40:203][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.01-14.41.40:213][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.01-14.41.40:551][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.01-14.41.40:559][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.01-14.41.40:567][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.01-14.41.40:575][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.01-14.41.40:582][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.01-14.41.40:590][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.01-14.41.40:599][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.01-14.41.40:607][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.01-14.41.40:611][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.01-14.41.40:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.01-14.41.40:641][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.01-14.41.40:657][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.01-14.41.40:657][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.01-14.41.40:671][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.01-14.41.40:671][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.01-14.41.40:677][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.01-14.41.40:684][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.01-14.41.40:690][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.01-14.41.40:697][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.01-14.41.40:719][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.01-14.41.40:719][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.01-14.41.40:719][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.01-14.41.40:728][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.01-14.41.40:778][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Intermediate/Shaders/WorkingDirectory/12464/).
+[2019.10.01-14.41.40:778][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jwoods2/AppData/Local/Temp/UnrealShaderWorkingDir/596429F64279A738889A3D90550A6FAF/'.
+[2019.10.01-14.41.40:780][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.01-14.41.40:780][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.01-14.41.40:780][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.01-14.41.41:331][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.01-14.41.41:375][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/jwoods2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-14.41.41:375][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jwoods2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.01-14.41.41:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.01-14.41.41:375][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.01-14.41.41:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-14.41.41:375][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.01-14.41.41:385][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.01-14.41.41:385][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-14.41.41:385][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.01-14.41.41:386][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jwoods2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.01-14.41.41:386][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.01-14.41.41:386][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.01-14.41.41:404][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.01-14.41.41:406][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.01-14.41.41:407][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.01-14.41.41:466][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.10.01-14.41.41:689][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-14.41.41:817][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.01-14.41.41:817][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.01-14.41.41:817][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.01-14.41.41:817][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.01-14.41.41:817][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.01-14.41.41:825][  0]LogNetVersion: Woods_Escape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3582996880)
+[2019.10.01-14.41.42:166][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.037094 seconds
+[2019.10.01-14.41.42:171][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.01-14.41.42:171][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.01-14.41.42:171][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.01-14.41.43:016][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.01-14.41.43:018][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.01-14.41.43:065][  0]SourceControl: Source control is disabled
+[2019.10.01-14.41.43:065][  0]SourceControl: Source control is disabled
+[2019.10.01-14.41.43:067][  0]SourceControl: Source control is disabled
+[2019.10.01-14.41.43:067][  0]SourceControl: Source control is disabled
+[2019.10.01-14.41.43:075][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-14.41.43:075][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-14.41.43:151][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.01-14.41.43:325][  0]LogOcInput: OculusInput pre-init called
+[2019.10.01-14.41.43:331][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.01-14.41.43:331][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.01-14.41.43:389][  0]LogEngine: Initializing Engine...
+[2019.10.01-14.41.43:390][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-14.41.43:391][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.01-14.41.43:573][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.01-14.41.43:588][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.01-14.41.43:627][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-14.41.43:960][  0]LogInit: FAudioDevice initialized.
+[2019.10.01-14.41.43:960][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.01-14.41.44:086][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/jwoods2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-14.41.44:087][  0]LogInit: Texture streaming: Enabled
+[2019.10.01-14.41.44:106][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.01-14.41.44:151][  0]LogInit: Transaction tracking system initialized
+[2019.10.01-14.41.44:179][  0]BlueprintLog: New page: Editor Load
+[2019.10.01-14.41.44:252][  0]LocalizationService: Localization service is disabled
+[2019.10.01-14.41.44:313][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-14.41.44:314][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-14.41.44:470][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/' took 0.00s
+[2019.10.01-14.41.44:471][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.01-14.41.44:471][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.01-14.41.44:649][  0]SourceControl: Source control is disabled
+[2019.10.01-14.41.44:649][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.01-14.41.44:649][  0]LightingResults: New page: Lighting Build
+[2019.10.01-14.41.44:652][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-14.41.44:652][  0]MapCheck: New page: Map Check
+[2019.10.01-14.41.44:652][  0]LightingResults: New page: Lighting Build
+[2019.10.01-14.41.44:674][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.01-14.41.44:912][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-14.41.44:923][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.01-14.41.44:946][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.01-14.41.44:946][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.01-14.41.44:946][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2019.10.01-14.41.44:946][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.297
+[2019.10.01-14.41.45:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-14.41.45:043][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-14.41.45:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-14.41.45:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-14.41.45:060][  0]LogCollectionManager: Loaded 0 collections in 0.001785 seconds
+[2019.10.01-14.41.45:066][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Collections/' took 0.00s
+[2019.10.01-14.41.45:066][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Developers/jwoods2/Collections/' took 0.00s
+[2019.10.01-14.41.45:066][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Collections/' took 0.00s
+[2019.10.01-14.41.45:066][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.01-14.41.45:073][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2863 classes and 680 folders.
+[2019.10.01-14.41.45:079][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-14.41.45:124][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-14.41.45:129][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.01-14.41.45:139][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.01-14.41.45:141][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.01-14.41.45:145][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.01-14.41.45:202][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-14.41.45:284][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-14.41.45:284][  0]LogLoad: (Engine Initialization) Total time: 6.79 seconds
+[2019.10.01-14.41.45:284][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.01-14.41.45:328][  0]LogAssetRegistry: Asset discovery search completed in 3.8631 seconds
+[2019.10.01-14.41.45:331][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.01-14.41.45:331][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.10.01-14.41.45:332][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.01-14.41.45:374][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-14.41.48:247][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2019.10.01-14.41.51:878][772]Cmd: DELETE
+[2019.10.01-14.41.51:878][772]Cmd: ACTOR DELETE
+[2019.10.01-14.41.51:880][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.01-14.41.51:899][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.10.01-14.41.51:899][772]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.10.01-14.41.58:559][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-14.42.01:605][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-14.42.05:082][349]Cmd: TRANSACTION UNDO
+[2019.10.01-14.42.05:082][349]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-14.42.05:087][349]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-14.42.07:436][631]Cmd: TRANSACTION UNDO
+[2019.10.01-14.42.07:436][631]LogEditorTransaction: Undo Delete Actors
+[2019.10.01-14.42.09:217][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-14.42.10:558][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-14.42.20:399][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2019.10.01-14.42.21:323][261]Cmd: DELETE
+[2019.10.01-14.42.21:323][261]Cmd: ACTOR DELETE
+[2019.10.01-14.42.21:324][261]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.01-14.42.21:342][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.01-14.42.21:342][261]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.10.01-14.42.23:411][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.10.01-14.42.24:192][598]Cmd: DELETE
+[2019.10.01-14.42.24:192][598]Cmd: ACTOR DELETE
+[2019.10.01-14.42.24:193][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.01-14.42.24:214][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.01-14.42.24:214][598]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.01-14.42.25:852][795]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.10.01-14.42.31:270][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-14.42.37:217][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.42.37:386][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.01-14.42.37:481][141]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap3BE5AD6044287537647EA6A08F04E045.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-14.42.38:484][141]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltData4AB6FB2D40A626F4ED944CA03A17F4D5.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-14.51.23:500][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.51.41:247][715]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-14.52.21:101][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-14.52.35:554][189]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-14.52.52:630][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-14.53.33:734][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.54.00:314][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.54.19:833][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-14.54.43:921][510]Cmd: DELETE
+[2019.10.01-14.54.43:921][510]Cmd: ACTOR DELETE
+[2019.10.01-14.54.43:922][510]LogEditorActor: Deleted Actor: Brush
+[2019.10.01-14.54.43:942][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.01-14.54.43:944][510]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.01-14.54.44:957][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.54.46:759][846]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-14.54.55:384][876]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.10.01-14.54.57:574][133]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.10.01-14.55.02:557][726]Cmd: DELETE
+[2019.10.01-14.55.02:557][726]Cmd: ACTOR DELETE
+[2019.10.01-14.55.02:559][726]LogEditorActor: Deleted Actor: Brush
+[2019.10.01-14.55.02:577][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.01-14.55.02:579][726]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.10.01-14.55.04:908][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.55.06:925][240]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-14.55.08:485][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-14.55.35:206][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-14.55.43:893][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.55.44:840][775]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-14.55.45:787][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-14.56.22:498][251]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-14.56.33:049][512]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-14.56.33:076][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-14.57.07:966][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.58.17:377][951]Cmd: DELETE
+[2019.10.01-14.58.17:377][951]Cmd: ACTOR DELETE
+[2019.10.01-14.58.17:378][951]LogEditorActor: Deleted Actor: Brush
+[2019.10.01-14.58.17:397][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.01-14.58.17:400][951]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.01-14.58.25:459][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: request failed, libcurl error: 0 (No error)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.237.224) port 443 (#6))
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 7 (Closing connection 6)
+[2019.10.01-14.58.45:318][273]LogHttp: Warning: 00000210F695E480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-14.58.45:326][274]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-14.59.50:672][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-14.59.50:755][ 49]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2019.10.01-15.00.00:288][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-15.00.47:360][795]Cmd: TRANSACTION UNDO
+[2019.10.01-15.00.47:360][795]LogEditorTransaction: Undo Rotate Actors
+[2019.10.01-15.01.52:703][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.02.07:493][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.02.14:457][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.02.22:465][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.02.23:712][235]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-15.02.49:824][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.03.42:378][653]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-15.03.45:169][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-15.04.11:042][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.04.22:231][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.04.22:826][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.04.26:466][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: request failed, libcurl error: 0 (No error)
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.243.91) port 443 (#8))
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 7 (Closing connection 8)
+[2019.10.01-15.04.45:303][ 95]LogHttp: Warning: 0000021091758E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-15.04.45:312][ 96]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-15.05.50:610][856]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-15.06.53:885][367]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-15.06.58:170][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.07.21:444][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.07.28:650][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.07.52:244][316]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-15.08.15:541][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.08.29:718][800]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-15.09.24:470][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.09.36:659][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.09.36:742][789]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-15.09.36:748][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.09.36:748][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-15.09.36:748][789]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 7:09:36 AM)
+[2019.10.01-15.09.36:749][789]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.01-15.09.36:750][789]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.09.36:761][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010441s)
+[2019.10.01-15.09.36:762][789]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-15.09.36:762][789]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2019.10.01-15.09.36:762][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012075s)
+[2019.10.01-15.09.36:784][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.10.01-15.09.36:816][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-15.09.36:937][789]LogInit: FAudioDevice initialized.
+[2019.10.01-15.09.36:943][789]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-15.09.36:946][789]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-11.09.36
+[2019.10.01-15.09.36:946][789]LogWorld: Bringing up level for play took: 0.001564
+[2019.10.01-15.09.36:946][789]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.01-15.09.36:954][789]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.01-15.09.36:955][789]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.386
+[2019.10.01-15.09.36:955][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.09.51:753][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.09.51:753][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.09.51:753][560]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.09.51:753][560]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-15.09.51:761][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-15.09.51:761][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.09.51:788][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.09.51:790][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.10.01-15.09.51:858][567]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.01-15.09.59:973][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.10.01:651][739]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: request failed, libcurl error: 0 (No error)
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.16.87) port 443 (#10))
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 7 (Closing connection 10)
+[2019.10.01-15.11.45:275][ 27]LogHttp: Warning: 00000210B169DD00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-15.11.45:282][ 28]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-15.13.08:148][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.13.23:720][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.13.33:329][845]Cmd: EDIT COPY
+[2019.10.01-15.13.38:008][404]Cmd: TRANSACTION UNDO
+[2019.10.01-15.13.38:008][404]LogEditorTransaction: Undo Move Actors
+[2019.10.01-15.13.42:807][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.13.44:669][192]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2019.10.01-15.13.47:262][501]Cmd: EDIT COPY
+[2019.10.01-15.13.49:233][737]Cmd: EDIT COPY
+[2019.10.01-15.13.49:504][769]Cmd: EDIT COPY
+[2019.10.01-15.13.49:696][791]Cmd: EDIT COPY
+[2019.10.01-15.13.51:566][ 15]Cmd: EDIT COPY
+[2019.10.01-15.13.55:105][439]Cmd: EDIT PASTE
+[2019.10.01-15.15.33:909][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.15.37:026][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.15.39:315][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.15.56:042][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.17.27:382][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: request failed, libcurl error: 0 (No error)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.62.221) port 443 (#12))
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 7 (Closing connection 12)
+[2019.10.01-15.17.45:281][599]LogHttp: Warning: 000002109D3CB9C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-15.17.45:289][600]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-15.18.22:226][699]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-15.18.22:261][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.01-15.18.22:386][699]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_Auto14A066D82441AF290475B79A48E96F163.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.01-15.18.22:389][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.147
+[2019.10.01-15.18.22:389][699]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.147
+[2019.10.01-15.19.22:189][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.20.53:071][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: request failed, libcurl error: 0 (No error)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 1 (Re-using existing connection! (#14) with host datarouter.ol.epicgames.com)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.251.232) port 443 (#14))
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 7 (Closing connection 14)
+[2019.10.01-15.23.45:271][167]LogHttp: Warning: 00000210BD7D2D40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-15.23.45:279][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-15.24.21:272][477]Cmd: EDIT COPY
+[2019.10.01-15.24.21:992][563]Cmd: EDIT PASTE
+[2019.10.01-15.24.35:505][170]Cmd: TRANSACTION UNDO
+[2019.10.01-15.24.35:505][170]LogEditorTransaction: Undo Move Actors
+[2019.10.01-15.24.35:916][214]Cmd: TRANSACTION UNDO
+[2019.10.01-15.24.35:916][214]LogEditorTransaction: Undo Move Actors
+[2019.10.01-15.25.39:873][833]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-15.25.39:895][833]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-15.25.41:062][971]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-15.28.29:477][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.28.29:584][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.01-15.28.29:716][ 38]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap5F58A4C34C0DFA9A3DFA20A9913F7F9E.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-15.28.30:459][ 38]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltData7F63138E4B816030FBD1529CCCA49A48.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-15.29.06:619][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.29.06:694][377]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-15.29.06:700][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.29.06:700][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-15.29.06:700][377]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 7:29:06 AM)
+[2019.10.01-15.29.06:700][377]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.29.06:713][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012418s)
+[2019.10.01-15.29.06:714][377]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-15.29.06:714][377]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2019.10.01-15.29.06:714][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013519s)
+[2019.10.01-15.29.06:740][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.01-15.29.06:773][377]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-15.29.06:897][377]LogInit: FAudioDevice initialized.
+[2019.10.01-15.29.06:901][377]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-15.29.06:904][377]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-11.29.06
+[2019.10.01-15.29.06:904][377]LogWorld: Bringing up level for play took: 0.001133
+[2019.10.01-15.29.06:904][377]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.10.01-15.29.06:906][377]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.01-15.29.06:906][377]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.364
+[2019.10.01-15.29.06:907][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.29.21:145][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-45.295 Y=-3.815 Z=445.398] for [FirstPersonProjectile_C]
+[2019.10.01-15.29.26:295][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.29.26:295][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.29.26:295][698]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.29.26:295][698]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-15.29.26:302][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-15.29.26:302][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.29.26:328][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.29.26:330][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.01-15.29.26:397][705]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.01-15.30.51:986][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.30.57:913][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.30.59:868][917]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-15.31.01:882][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-15.32.17:417][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.34.00:704][419]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2019.10.01-15.34.19:332][643]Cmd: TRANSACTION UNDO
+[2019.10.01-15.34.19:332][643]LogEditorTransaction: Undo Rotate Actors
+[2019.10.01-15.34.36:152][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.34.43:325][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.36.58:218][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.36.59:649][777]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-15.37.02:621][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-15.37.41:179][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.37.46:942][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.37.49:726][757]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-15.38.52:168][198]Cmd: EDIT COPY
+[2019.10.01-15.38.53:089][308]Cmd: EDIT PASTE
+[2019.10.01-15.38.58:959][  6]Cmd: EDIT COPY
+[2019.10.01-15.39.05:964][841]LogEditorViewport: Clicking on Actor (LMB): Brush (Cone Brush2)
+[2019.10.01-15.39.07:434][ 15]Cmd: EDIT COPY
+[2019.10.01-15.39.08:660][162]Cmd: EDIT PASTE
+[2019.10.01-15.39.12:538][619]Cmd: EDIT PASTE
+[2019.10.01-15.39.36:001][406]Cmd: EDIT PASTE
+[2019.10.01-15.39.55:864][768]Cmd: EDIT COPY
+[2019.10.01-15.39.56:601][856]Cmd: EDIT PASTE
+[2019.10.01-15.40.06:318][  2]Cmd: EDIT COPY
+[2019.10.01-15.40.07:412][133]Cmd: EDIT PASTE
+[2019.10.01-15.40.16:117][138]Cmd: EDIT COPY
+[2019.10.01-15.40.24:526][141]Cmd: EDIT PASTE
+[2019.10.01-15.40.34:178][279]Cmd: EDIT COPY
+[2019.10.01-15.40.35:857][480]Cmd: EDIT PASTE
+[2019.10.01-15.40.44:551][499]Cmd: EDIT COPY
+[2019.10.01-15.40.44:923][543]Cmd: EDIT PASTE
+[2019.10.01-15.40.48:730][989]Cmd: EDIT COPY
+[2019.10.01-15.40.49:002][ 21]Cmd: EDIT PASTE
+[2019.10.01-15.40.54:983][717]Cmd: EDIT COPY
+[2019.10.01-15.40.55:326][758]Cmd: EDIT PASTE
+[2019.10.01-15.40.55:363][758]Cmd: EDIT COPY
+[2019.10.01-15.41.03:158][677]Cmd: EDIT COPY
+[2019.10.01-15.41.03:843][759]Cmd: EDIT PASTE
+[2019.10.01-15.41.09:261][398]Cmd: EDIT COPY
+[2019.10.01-15.41.09:505][427]Cmd: EDIT PASTE
+[2019.10.01-15.41.16:222][221]Cmd: EDIT COPY
+[2019.10.01-15.41.16:524][257]Cmd: EDIT PASTE
+[2019.10.01-15.41.24:897][239]Cmd: EDIT COPY
+[2019.10.01-15.41.25:148][269]Cmd: EDIT PASTE
+[2019.10.01-15.41.48:062][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.45.48:200][524]Cmd: TRANSACTION UNDO
+[2019.10.01-15.45.48:201][524]LogEditorTransaction: Undo Move World Outliner Items
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: request failed, libcurl error: 0 (No error)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.90.14) port 443 (#23))
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 7 (Closing connection 23)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: 00000210B16D1300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-15.47.45:222][446]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-15.48.29:141][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.48.44:697][551]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-15.49.06:018][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.49.06:085][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-15.49.06:091][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.06:091][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-15.49.06:091][ 70]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 7:49:06 AM)
+[2019.10.01-15.49.06:091][ 70]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.49.06:109][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017482s)
+[2019.10.01-15.49.06:110][ 70]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-15.49.06:110][ 70]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2019.10.01-15.49.06:110][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018816s)
+[2019.10.01-15.49.06:136][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.01-15.49.06:172][ 70]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-15.49.06:296][ 70]LogInit: FAudioDevice initialized.
+[2019.10.01-15.49.06:303][ 70]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-15.49.06:305][ 70]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-11.49.06
+[2019.10.01-15.49.06:305][ 70]LogWorld: Bringing up level for play took: 0.001256
+[2019.10.01-15.49.06:306][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.01-15.49.06:307][ 70]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.01-15.49.06:307][ 70]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.211
+[2019.10.01-15.49.06:308][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.10:976][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.10:976][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.49.10:977][625]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.49.10:977][625]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-15.49.10:984][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-15.49.10:984][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.11:010][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.49.11:013][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.01-15.49.11:076][631]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.01-15.49.26:402][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-15.49.33:426][761]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-15.49.33:432][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.33:432][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-15.49.33:432][761]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 7:49:33 AM)
+[2019.10.01-15.49.33:432][761]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.49.33:449][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016880s)
+[2019.10.01-15.49.33:449][761]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-15.49.33:450][761]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2019.10.01-15.49.33:450][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017804s)
+[2019.10.01-15.49.33:471][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.01-15.49.33:504][761]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-15.49.33:630][761]LogInit: FAudioDevice initialized.
+[2019.10.01-15.49.33:638][761]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-15.49.33:640][761]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-11.49.33
+[2019.10.01-15.49.33:640][761]LogWorld: Bringing up level for play took: 0.001487
+[2019.10.01-15.49.33:640][761]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.01-15.49.33:642][761]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.125
+[2019.10.01-15.49.33:642][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.59:750][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.59:750][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.49.59:750][888]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.49.59:751][888]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-15.49.59:758][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-15.49.59:758][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.49.59:785][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.49.59:788][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.01-15.49.59:858][895]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.01-15.50.08:008][864]Cmd: EDIT COPY
+[2019.10.01-15.50.08:860][966]Cmd: EDIT PASTE
+[2019.10.01-15.50.49:897][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.50.49:955][812]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-15.50.49:961][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.50.49:961][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-15.50.49:961][812]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 7:50:49 AM)
+[2019.10.01-15.50.49:961][812]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.50.49:979][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018082s)
+[2019.10.01-15.50.49:980][812]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-15.50.49:981][812]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2019.10.01-15.50.49:981][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019246s)
+[2019.10.01-15.50.50:004][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.01-15.50.50:036][812]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-15.50.50:154][812]LogInit: FAudioDevice initialized.
+[2019.10.01-15.50.50:164][812]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-15.50.50:166][812]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-11.50.50
+[2019.10.01-15.50.50:167][812]LogWorld: Bringing up level for play took: 0.001533
+[2019.10.01-15.50.50:167][812]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.01-15.50.50:169][812]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.347
+[2019.10.01-15.50.50:169][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.51.12:954][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.51.12:954][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.51.12:954][541]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.51.12:954][541]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-15.51.12:962][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-15.51.12:962][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.51.12:989][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.51.12:992][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.01-15.51.13:055][547]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.01-15.51.24:075][861]Cmd: EDIT COPY
+[2019.10.01-15.51.24:336][892]Cmd: EDIT PASTE
+[2019.10.01-15.51.47:075][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.51.57:801][860]Cmd: EDIT COPY
+[2019.10.01-15.51.58:662][963]Cmd: EDIT PASTE
+[2019.10.01-15.52.34:745][246]Cmd: EDIT COPY
+[2019.10.01-15.52.35:021][279]Cmd: EDIT PASTE
+[2019.10.01-15.53.19:725][574]Cmd: EDIT COPY
+[2019.10.01-15.53.20:013][608]Cmd: EDIT PASTE
+[2019.10.01-15.53.48:387][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.53.48:487][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.01-15.53.48:493][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.53.48:493][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-15.53.48:493][998]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 7:53:48 AM)
+[2019.10.01-15.53.48:493][998]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.53.48:512][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019994s)
+[2019.10.01-15.53.48:514][998]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-15.53.48:514][998]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2019.10.01-15.53.48:514][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021396s)
+[2019.10.01-15.53.48:540][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.10.01-15.53.48:573][998]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-15.53.48:699][998]LogInit: FAudioDevice initialized.
+[2019.10.01-15.53.48:707][998]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-15.53.48:709][998]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-11.53.48
+[2019.10.01-15.53.48:709][998]LogWorld: Bringing up level for play took: 0.001413
+[2019.10.01-15.53.48:709][998]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.01-15.53.48:711][998]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.199
+[2019.10.01-15.53.48:711][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.54.26:830][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.54.26:831][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.54.26:831][564]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.54.26:831][564]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-15.54.26:842][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-15.54.26:842][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.54.26:869][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.54.26:871][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.01-15.54.26:935][570]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.01-15.54.38:651][966]Cmd: EDIT COPY
+[2019.10.01-15.54.38:919][998]Cmd: EDIT PASTE
+[2019.10.01-15.55.02:823][821]Cmd: EDIT COPY
+[2019.10.01-15.55.03:001][842]Cmd: EDIT PASTE
+[2019.10.01-15.55.21:484][ 26]Cmd: EDIT COPY
+[2019.10.01-15.55.21:678][ 49]Cmd: EDIT PASTE
+[2019.10.01-15.55.47:277][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-15.55.49:792][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.55.49:792][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-15.55.49:792][365]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 7:55:49 AM)
+[2019.10.01-15.55.49:792][365]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.55.49:811][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018975s)
+[2019.10.01-15.55.49:812][365]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-15.55.49:812][365]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2019.10.01-15.55.49:812][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020067s)
+[2019.10.01-15.55.49:835][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.10.01-15.55.49:868][365]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-15.55.49:989][365]LogInit: FAudioDevice initialized.
+[2019.10.01-15.55.49:991][365]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-15.55.49:995][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.55.49:995][365]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-15.55.49:998][365]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-11.55.49
+[2019.10.01-15.55.49:998][365]LogWorld: Bringing up level for play took: 0.002083
+[2019.10.01-15.55.49:998][365]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.01-15.55.50:002][365]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.507
+[2019.10.01-15.55.50:003][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.55.50:057][366]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-15.56.10:470][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.56.10:470][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-15.56.10:470][804]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-15.56.10:476][804]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-15.56.10:480][804]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-15.56.10:487][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-15.56.10:487][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-15.56.10:517][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.01-15.56.10:576][811]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.01-15.56.45:305][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-15.56.45:403][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.01-15.56.45:576][986]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap2B952FA0450C14D560C5F4965A0D51EA.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-15.56.46:337][986]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltDataAFAF33CB4C1D9CF91992C99CC2B6B359.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-15.56.49:628][371]Cmd: EDIT COPY
+[2019.10.01-15.56.51:224][562]Cmd: EDIT PASTE
+[2019.10.01-15.57.18:767][815]Cmd: EDIT COPY
+[2019.10.01-15.57.18:944][836]Cmd: EDIT PASTE
+[2019.10.01-15.58.45:224][837]LogHttp: Warning: 00000210BD6B7380: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-15.58.45:224][837]LogHttp: Warning: 00000210BD6B7380: request failed, libcurl error: 0 (No error)
+[2019.10.01-15.58.45:224][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-15.58.45:224][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 1 (Re-using existing connection! (#27) with host datarouter.ol.epicgames.com)
+[2019.10.01-15.58.45:224][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.110.70) port 443 (#27))
+[2019.10.01-15.58.45:224][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-15.58.45:225][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-15.58.45:225][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-15.58.45:225][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-15.58.45:225][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 7 (Closing connection 27)
+[2019.10.01-15.58.45:225][837]LogHttp: Warning: 00000210BD6B7380: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-15.58.45:233][838]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-15.59.21:553][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.01.01:665][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.01.22:676][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.01.50:434][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.02.00:958][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.05.09:742][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.05.14:085][398]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-16.05.14:975][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-16.06.25:532][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-16.06.32:147][641]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-16.06.32:153][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.06.32:153][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-16.06.32:153][641]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 8:06:32 AM)
+[2019.10.01-16.06.32:153][641]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-16.06.32:173][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019538s)
+[2019.10.01-16.06.32:174][641]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-16.06.32:174][641]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2019.10.01-16.06.32:174][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020879s)
+[2019.10.01-16.06.32:202][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.10.01-16.06.32:233][641]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-16.06.32:358][641]LogInit: FAudioDevice initialized.
+[2019.10.01-16.06.32:365][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-16.06.32:365][641]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-16.06.32:367][641]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-12.06.32
+[2019.10.01-16.06.32:368][641]LogWorld: Bringing up level for play took: 0.001923
+[2019.10.01-16.06.32:368][641]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.10.01-16.06.32:372][641]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.126
+[2019.10.01-16.06.32:376][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.06.45:206][175]LogHttp: Warning: 00000211022C1080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-16.06.45:206][175]LogHttp: Warning: 00000211022C1080: request failed, libcurl error: 0 (No error)
+[2019.10.01-16.06.45:206][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-16.06.45:206][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2019.10.01-16.06.45:206][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.236.93.143) port 443 (#30))
+[2019.10.01-16.06.45:206][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-16.06.45:206][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-16.06.45:207][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-16.06.45:207][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-16.06.45:207][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 7 (Closing connection 30)
+[2019.10.01-16.06.45:207][175]LogHttp: Warning: 00000211022C1080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-16.06.45:215][176]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-16.07.03:154][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.07.03:154][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-16.07.03:155][328]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-16.07.03:160][328]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-16.07.03:163][328]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-16.07.03:168][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-16.07.03:169][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.07.03:197][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.01-16.07.03:256][335]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.01-16.08.46:804][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.10.19:202][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.10.30:402][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.10.35:133][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.10.48:709][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.12.26:593][978]Cmd: EDIT CUT
+[2019.10.01-16.12.26:603][978]LogEditorActor: Deleted Actor: Brush
+[2019.10.01-16.12.26:623][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.01-16.12.26:637][978]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.10.01-16.12.31:995][619]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.31:995][619]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-16.12.32:387][664]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.32:388][664]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-16.12.32:790][712]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.32:790][712]LogEditorTransaction: Undo Cut
+[2019.10.01-16.12.33:910][842]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.33:910][842]LogEditorTransaction: Undo Create Folder
+[2019.10.01-16.12.36:546][157]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.36:546][157]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-16.12.37:533][274]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.37:533][274]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-16.12.38:102][341]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.38:102][341]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-16.12.39:052][455]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.39:052][455]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-16.12.40:770][660]Cmd: TRANSACTION UNDO
+[2019.10.01-16.12.40:770][660]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.01-16.13.11:289][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.13.31:210][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.13.37:174][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.13.40:224][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.14.00:257][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.14.19:927][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.15.06:319][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.16.04:453][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.17.35:893][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: request failed, libcurl error: 0 (No error)
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.80.69.247) port 443 (#34))
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 7 (Closing connection 34)
+[2019.10.01-16.17.45:213][ 27]LogHttp: Warning: 000002109A4E1580: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-16.17.45:221][ 28]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-16.18.41:098][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.18.50:139][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.19.59:869][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.20.53:373][510]Cmd: EDIT COPY
+[2019.10.01-16.20.57:203][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-16.20.58:509][121]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.10.01-16.20.58:522][121]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-16.21.02:355][579]Cmd: EDIT PASTE
+[2019.10.01-16.22.14:350][ 33]Cmd: EDIT COPY
+[2019.10.01-16.22.15:103][122]Cmd: EDIT PASTE
+[2019.10.01-16.22.52:771][439]Cmd: EDIT COPY
+[2019.10.01-16.22.54:466][641]Cmd: EDIT PASTE
+[2019.10.01-16.23.05:287][909]LogEditorViewport: Clicking on Actor (LMB): Brush (Cone Brush65)
+[2019.10.01-16.23.06:553][ 58]Cmd: DELETE
+[2019.10.01-16.23.06:553][ 58]Cmd: ACTOR DELETE
+[2019.10.01-16.23.06:564][ 58]LogEditorActor: Deleted Actor: Brush
+[2019.10.01-16.23.06:591][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.01-16.23.06:625][ 58]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.10.01-16.23.23:209][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: request failed, libcurl error: 0 (No error)
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x210b5c93f70 [can pipeline])
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 1 (Re-using existing connection! (#36) with host datarouter.ol.epicgames.com)
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.245.209) port 443 (#36))
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 7 (Closing connection 36)
+[2019.10.01-16.24.45:202][809]LogHttp: Warning: 00000211222C51C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-16.24.45:210][810]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-16.25.34:196][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.25.55:585][250]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.01-16.26.33:647][734]Cmd: EDIT COPY
+[2019.10.01-16.26.33:982][773]Cmd: EDIT PASTE
+[2019.10.01-16.27.33:438][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.27.33:496][738]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-16.27.33:502][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.27.33:502][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-16.27.33:503][738]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 8:27:33 AM)
+[2019.10.01-16.27.33:503][738]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-16.27.33:536][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033478s)
+[2019.10.01-16.27.33:537][738]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-16.27.33:537][738]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2019.10.01-16.27.33:537][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034596s)
+[2019.10.01-16.27.33:562][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.01-16.27.33:597][738]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-16.27.33:722][738]LogInit: FAudioDevice initialized.
+[2019.10.01-16.27.33:730][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-16.27.33:730][738]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-16.27.33:733][738]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-12.27.33
+[2019.10.01-16.27.33:734][738]LogWorld: Bringing up level for play took: 0.002864
+[2019.10.01-16.27.33:734][738]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.10.01-16.27.33:738][738]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.737
+[2019.10.01-16.27.33:739][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.27.37:119][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.27.37:177][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-16.27.38:471][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-16.27.40:823][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.27.40:823][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-16.27.40:823][567]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-16.27.40:829][567]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-16.27.40:832][567]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-16.27.40:842][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-16.27.40:842][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.27.40:871][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.01-16.27.40:924][573]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.01-16.27.44:709][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.27.44:709][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-16.27.44:709][ 26]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 8:27:44 AM)
+[2019.10.01-16.27.44:709][ 26]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-16.27.44:742][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033059s)
+[2019.10.01-16.27.44:743][ 26]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-16.27.44:743][ 26]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.10.01-16.27.44:743][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034111s)
+[2019.10.01-16.27.44:764][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.01-16.27.44:802][ 26]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-16.27.44:928][ 26]LogInit: FAudioDevice initialized.
+[2019.10.01-16.27.44:935][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-16.27.44:935][ 26]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-16.27.44:938][ 26]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-12.27.44
+[2019.10.01-16.27.44:939][ 26]LogWorld: Bringing up level for play took: 0.003112
+[2019.10.01-16.27.44:939][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.01-16.27.44:943][ 26]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.467
+[2019.10.01-16.27.44:943][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.28.30:795][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.28.30:795][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-16.28.30:795][509]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-16.28.30:801][509]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-16.28.30:806][509]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-16.28.30:815][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-16.28.30:815][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-16.28.30:847][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.01-16.28.30:899][514]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.01-16.28.34:472][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.01-16.28.34:736][939]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap2670C4F6478959659D6FD3A90FC1B6D5.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-16.28.35:479][939]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltDataD40E79944309B71351273997BFC61F76.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-16.32.08:315][846]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-16.32.51:910][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.01-16.32.52:152][184]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMapDF2E2C6F41663C5BE01C9A89D68F4943.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-16.32.52:874][184]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltData3D08CB1F44FCC9773839C6BF742353F8.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-16.42.11:512][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.01-16.42.48:488][174]LogSlate: Window 'Save Level As' being destroyed
+[2019.10.01-16.44.32:810][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.01-16.44.32:838][498]LogSlate: Window 'Woods_Escape - Unreal Editor' being destroyed
+[2019.10.01-16.44.32:838][498]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.01-16.44.32:922][499]Cmd: QUIT_EDITOR
+[2019.10.01-16.44.32:960][499]LogExit: Preparing to exit.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:728][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.01-16.44.33:729][499]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-16.44.33:732][499]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.01-16.44.33:740][499]LogExit: Editor shut down
+[2019.10.01-16.44.33:740][499]LogExit: Transaction tracking system shut down
+[2019.10.01-16.44.33:938][499]LogExit: Object subsystem successfully closed.
+[2019.10.01-16.44.33:957][499]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.10.01-16.44.33:991][499]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.10.01-16.44.33:992][499]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.10.01-16.44.33:993][499]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.10.01-16.44.33:993][499]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.10.01-16.44.33:993][499]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.10.01-16.44.33:993][499]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.10.01-16.44.33:993][499]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.10.01-16.44.33:993][499]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.10.01-16.44.34:115][499]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.10.01-16.44.34:116][499]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.10.01-16.44.34:116][499]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.10.01-16.44.34:116][499]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.10.01-16.44.34:116][499]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.10.01-16.44.34:116][499]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.10.01-16.44.34:116][499]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.10.01-16.44.34:116][499]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.10.01-16.44.34:167][499]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.10.01-16.44.34:168][499]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.10.01-16.44.34:168][499]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.10.01-16.44.34:168][499]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.10.01-16.44.34:168][499]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.10.01-16.44.34:169][499]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.10.01-16.44.34:173][499]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.01-16.44.34:277][499]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.01-16.44.34:278][499]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.01-16.44.34:379][499]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.01-16.44.34:479][499]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.01-16.44.34:479][499]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.01-16.44.34:480][499]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.01-16.44.34:482][499]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.01-16.44.34:483][499]LogDerivedDataCache: Shutdown
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.01-16.44.34:483][499]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.01-16.44.34:484][499]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.01-16.44.34:485][499]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.01-16.44.34:485][499]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.01-16.44.34:485][499]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.01-16.44.34:485][499]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.01-16.44.34:490][499]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.01-16.44.34:490][499]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.01-16.44.34:491][499]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.01-16.44.34:491][499]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.01-16.44.34:495][499]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.01-16.44.34:495][499]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.01-16.44.34:495][499]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCE22081-4553-4D58-CC8F-E5806896B005%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.01-16.44.34:498][499]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.01-16.44.34:500][499]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.01-16.44.34:501][499]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.01-16.44.34:501][499]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.01-16.44.34:501][499]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.01-16.44.34:502][499]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.01-16.44.34:503][499]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.01-16.44.34:503][499]LogD3D11RHI: Shutdown
+[2019.10.01-16.44.34:503][499]LogD3D11RHI: CleanupD3DDevice
+[2019.10.01-16.44.34:504][499]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.01-16.44.34:504][499]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.01-16.44.34:504][499]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.01-16.44.34:594][499]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.01-16.44.34:602][499]LogExit: Exiting.
+[2019.10.01-16.44.34:618][499]Log file closed, 10/01/19 12:44:34
