@@ -1242,3 +1242,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-16.32.51:910][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
 [2019.10.01-16.32.52:152][184]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMapDF2E2C6F41663C5BE01C9A89D68F4943.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.10.01-16.32.52:874][184]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltData3D08CB1F44FCC9773839C6BF742353F8.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-16.42.11:512][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.01-16.42.48:488][174]LogSlate: Window 'Save Level As' being destroyed
