@@ -1,0 +1,973 @@
+﻿Log file open, 10/01/19 13:40:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Woods_Escape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.066034
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-17.40.36:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.01-17.40.36:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-17.40.36:182][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-17.40.36:184][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-17.40.36:184][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-17.40.36:185][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-17.40.36:185][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-17.40.36:185][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.01-17.40.36:188][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.01-17.40.36:188][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.01-17.40.36:188][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-17.40.36:188][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.01-17.40.36:189][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.01-17.40.36:190][  0]LogInit: Computer: NQSCGL-MSI-02
+[2019.10.01-17.40.36:190][  0]LogInit: User: jwoods2
+[2019.10.01-17.40.36:190][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.01-17.40.36:190][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.01-17.40.36:190][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.01-17.40.36:190][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.01-17.40.36:190][  0]LogMemory: Process Physical Memory: 100.70 MB used, 100.70 MB peak
+[2019.10.01-17.40.36:190][  0]LogMemory: Process Virtual Memory: 88.42 MB used, 88.42 MB peak
+[2019.10.01-17.40.36:190][  0]LogMemory: Physical Memory: 7464.42 MB used,  25248.11 MB free, 32712.53 MB total
+[2019.10.01-17.40.36:190][  0]LogMemory: Virtual Memory: 4656.52 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.01-17.40.36:192][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.01-17.40.36:212][  0]LogInit: Using OS detected language (en-US).
+[2019.10.01-17.40.36:212][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.01-17.40.36:213][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.01-17.40.36:372][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.01-17.40.36:405][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.01-17.40.36:405][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.01-17.40.36:600][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-17.40.36:600][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.01-17.40.36:662][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.01-17.40.36:662][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.01-17.40.36:664][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.01-17.40.36:664][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.01-17.40.36:664][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.01-17.40.36:670][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.01-17.40.36:671][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.01-17.40.36:671][  0]LogWindows: EnumDisplayDevices:
+[2019.10.01-17.40.36:671][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.01-17.40.36:671][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.01-17.40.36:671][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.01-17.40.36:672][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.01-17.40.36:672][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.01-17.40.36:672][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.01-17.40.36:672][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.10.01-17.40.36:672][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.10.01-17.40.36:672][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.01-17.40.36:710][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.01-17.40.36:721][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.01-17.40.37:068][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.01-17.40.37:076][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.01-17.40.37:085][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.01-17.40.37:093][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.01-17.40.37:102][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.01-17.40.37:111][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.01-17.40.37:122][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.01-17.40.37:131][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.01-17.40.37:135][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.01-17.40.37:166][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.01-17.40.37:168][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.01-17.40.37:189][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.01-17.40.37:189][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.01-17.40.37:203][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.01-17.40.37:203][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.01-17.40.37:209][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.01-17.40.37:218][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.01-17.40.37:225][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.01-17.40.37:232][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.01-17.40.37:255][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.01-17.40.37:255][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.01-17.40.37:255][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.01-17.40.37:264][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.01-17.40.37:315][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Intermediate/Shaders/WorkingDirectory/8900/).
+[2019.10.01-17.40.37:315][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jwoods2/AppData/Local/Temp/UnrealShaderWorkingDir/69AB5A9943300041F038EEB681C402FB/'.
+[2019.10.01-17.40.37:317][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.01-17.40.37:317][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.01-17.40.37:317][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.01-17.40.37:855][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.01-17.40.37:898][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/jwoods2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-17.40.37:898][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jwoods2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.01-17.40.37:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.01-17.40.37:898][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.01-17.40.37:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-17.40.37:898][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.01-17.40.37:908][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.01-17.40.37:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-17.40.37:908][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.01-17.40.37:909][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jwoods2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.01-17.40.37:909][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.01-17.40.37:909][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.01-17.40.37:927][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.01-17.40.37:929][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.01-17.40.37:930][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.01-17.40.37:988][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2019.10.01-17.40.38:214][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-17.40.38:344][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.01-17.40.38:344][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.01-17.40.38:344][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.01-17.40.38:344][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.01-17.40.38:344][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.01-17.40.38:352][  0]LogNetVersion: Woods_Escape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3582996880)
+[2019.10.01-17.40.38:695][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.037985 seconds
+[2019.10.01-17.40.38:700][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.01-17.40.38:700][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.01-17.40.38:700][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.01-17.40.39:540][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.01-17.40.39:542][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.01-17.40.39:588][  0]SourceControl: Source control is disabled
+[2019.10.01-17.40.39:588][  0]SourceControl: Source control is disabled
+[2019.10.01-17.40.39:589][  0]SourceControl: Source control is disabled
+[2019.10.01-17.40.39:590][  0]SourceControl: Source control is disabled
+[2019.10.01-17.40.39:597][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-17.40.39:598][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-17.40.39:674][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.01-17.40.39:849][  0]LogOcInput: OculusInput pre-init called
+[2019.10.01-17.40.39:856][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.01-17.40.39:856][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.01-17.40.39:914][  0]LogEngine: Initializing Engine...
+[2019.10.01-17.40.39:915][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-17.40.39:916][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.01-17.40.40:098][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.01-17.40.40:113][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.01-17.40.40:148][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-17.40.40:477][  0]LogInit: FAudioDevice initialized.
+[2019.10.01-17.40.40:477][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.01-17.40.40:661][  0]LogDerivedDataCache: Saved boot cache 0.18s 73MB C:/Users/jwoods2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-17.40.40:661][  0]LogInit: Texture streaming: Enabled
+[2019.10.01-17.40.40:680][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.01-17.40.40:725][  0]LogInit: Transaction tracking system initialized
+[2019.10.01-17.40.40:753][  0]BlueprintLog: New page: Editor Load
+[2019.10.01-17.40.40:826][  0]LocalizationService: Localization service is disabled
+[2019.10.01-17.40.40:884][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-17.40.40:885][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.01-17.40.41:045][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/' took 0.00s
+[2019.10.01-17.40.41:045][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.01-17.40.41:045][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.01-17.40.41:213][  0]SourceControl: Source control is disabled
+[2019.10.01-17.40.41:213][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.01-17.40.41:214][  0]LightingResults: New page: Lighting Build
+[2019.10.01-17.40.41:216][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-17.40.41:217][  0]MapCheck: New page: Map Check
+[2019.10.01-17.40.41:217][  0]LightingResults: New page: Lighting Build
+[2019.10.01-17.40.41:236][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.10.01-17.40.41:501][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-17.40.41:513][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.01-17.40.41:548][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.10.01-17.40.41:548][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.01-17.40.41:548][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.249ms to complete.
+[2019.10.01-17.40.41:548][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.335
+[2019.10.01-17.40.41:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-17.40.41:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-17.40.41:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-17.40.41:650][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-17.40.41:656][  0]LogCollectionManager: Loaded 0 collections in 0.001796 seconds
+[2019.10.01-17.40.41:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Collections/' took 0.00s
+[2019.10.01-17.40.41:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Developers/jwoods2/Collections/' took 0.00s
+[2019.10.01-17.40.41:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Collections/' took 0.00s
+[2019.10.01-17.40.41:661][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.01-17.40.41:668][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2863 classes and 680 folders.
+[2019.10.01-17.40.41:674][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-17.40.41:720][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-17.40.41:725][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.01-17.40.41:738][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.01-17.40.41:740][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.01-17.40.41:743][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.01-17.40.41:805][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-17.40.41:901][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-17.40.41:901][  0]LogLoad: (Engine Initialization) Total time: 6.92 seconds
+[2019.10.01-17.40.41:901][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.01-17.40.41:950][  0]LogAssetRegistry: Asset discovery search completed in 3.9619 seconds
+[2019.10.01-17.40.41:953][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.01-17.40.41:953][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.10.01-17.40.41:954][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.01-17.40.41:995][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-17.42.23:534][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-17.42.23:621][188]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-17.42.23:649][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.01-17.42.23:909][188]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMapCB01204846B67CDF23ABB4813F8E20CD.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-17.42.24:921][188]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltData09EB7D1C4A74EE68020771B309F14394.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-17.42.27:166][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.10.01-17.46.31:742][860]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.10.01-17.47.10:987][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-17.47.56:944][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-17.48.15:485][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-17.49.20:658][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-17.49.22:669][312]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-17.49.22:693][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.01-17.49.22:944][312]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap596F7BBA4684DF1F095FFAB42C2F5B1B.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-17.49.23:715][312]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltData3645272643735C9A6F6EC5AC13191368.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-17.49.24:807][437]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-17.49.26:052][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: request failed, libcurl error: 0 (No error)
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2572b5b7f70 [can pipeline])
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.80.69.247) port 443 (#4))
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 7 (Closing connection 4)
+[2019.10.01-17.50.41:926][689]LogHttp: Warning: 0000025745FE2700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-17.50.41:934][690]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-17.56.11:548][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: request failed, libcurl error: 0 (No error)
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2572b5b7f70 [can pipeline])
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.6.79.2) port 443 (#6))
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 7 (Closing connection 6)
+[2019.10.01-17.56.41:910][881]LogHttp: Warning: 0000025745FE0540: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-17.56.41:919][882]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-18.10.41:616][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.11.21:372][ 50]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.01-18.11.50:033][486]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door01.BP_Door01
+[2019.10.01-18.11.50:223][486]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.01-18.12.05:339][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-18.12.11:168][918]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-18.12.20:439][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.12.20:908][362]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.01-18.14.35:575][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.15.25:246][908]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.15.30:885][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.15.57:005][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.16.38:250][510]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.16.41:271][863]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.16.43:496][129]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.16.43:514][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door01" FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset" SILENT=true
+[2019.10.01-18.16.43:528][129]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door0125DB72A24E47DEF4AE34769EA3CE841C.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset'
+[2019.10.01-18.16.46:065][420]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.16.46:295][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.01-18.17.10:142][949]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.17.10:285][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.10.01-18.17.13:633][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door01" FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset" SILENT=true
+[2019.10.01-18.17.13:647][340]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door01AA044BC4404D1FF4B3B5D9832E65723D.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset'
+[2019.10.01-18.17.17:801][825]LogSlate: Window 'BP_Door01' being destroyed
+[2019.10.01-18.17.17:805][825]LogSlate: Window 'BP_Door01' being destroyed
+[2019.10.01-18.17.17:813][825]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-18.17.37:286][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.18.29:959][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.18.30:122][464]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door01.BP_Door01
+[2019.10.01-18.18.30:357][464]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.01-18.18.51:103][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.18.58:169][204]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door01)
+[2019.10.01-18.19.00:131][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.20.27:851][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.20.27:934][629]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.20.28:301][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.01-18.20.36:967][644]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.20.37:116][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.01-18.20.47:705][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.20.58:598][935]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.07:484][945]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.11:996][453]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.13:853][671]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.20:625][425]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.27:870][258]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.31:492][658]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.35:337][ 74]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.36:532][215]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.42:146][841]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.01-18.21.55:120][376]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.21.56:540][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.10.01-18.21.56:545][542]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.21.56:574][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.01-18.21.56:871][542]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMapE2BAC3AC4C0EF5BF13096CA940AAC1EE.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-18.21.56:886][542]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.336
+[2019.10.01-18.21.56:901][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door01" FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset" SILENT=true
+[2019.10.01-18.21.56:915][542]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door011D8109E64A263B4658E671B8310DE495.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset'
+[2019.10.01-18.22.18:631][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door01)
+[2019.10.01-18.22.24:888][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.22.43:602][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.23.26:952][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.23.37:873][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-18.24.13:363][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: request failed, libcurl error: 0 (No error)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2572b5b7f70 [can pipeline])
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.198.7) port 443 (#21))
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 7 (Closing connection 21)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: 00000257D7D13D80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-18.30.41:876][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-18.31.15:042][423]LogEditorViewport: Clicking Background
+[2019.10.01-18.31.15:668][497]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door01)
+[2019.10.01-18.31.21:835][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.33.43:340][474]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.33.43:512][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.01-18.33.48:182][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door01" FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset" SILENT=true
+[2019.10.01-18.33.48:203][  6]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door0150F98F484A8283E9412502AFFD3D9E33.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset'
+[2019.10.01-18.33.51:068][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-18.33.51:220][323]LogSlate: Took 0.142556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.01-18.34.32:352][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.01-18.34.32:650][117]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_Auto10AF17F8A498FE7A8E9B0B5864A3D46E4.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.01-18.34.32:653][117]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.325
+[2019.10.01-18.34.32:653][117]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.325
+[2019.10.01-18.34.32:655][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door01] ([1] browsable assets)...
+[2019.10.01-18.34.32:667][117]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door01.BP_Door01]
+[2019.10.01-18.34.32:668][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door01]
+[2019.10.01-18.34.32:686][117]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door01_Auto142818C5C45F325D3C2EE0DB2B829C64C.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Autosaves/Game/Blueprints/BP_Door01_Auto1.uasset'
+[2019.10.01-18.34.32:686][117]LogFileHelpers: Auto-saving content packages took 0.033
+[2019.10.01-18.34.51:991][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.35.48:012][863]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.35.48:015][863]LogClass: Warning: Type mismatch in DoorOpen of BP_Door01_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2019.10.01-18.35.48:015][863]LogBlueprint: Warning: [Compiler BP_Door01] Can't parse default value 'False' for  Door Open . Property: DoorOpen.
+[2019.10.01-18.35.48:180][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.01-18.36.23:212][801]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.36.23:382][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.10.01-18.37.08:741][286]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.01-18.37.28:706][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.37.44:185][393]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.37.44:354][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.01-18.41.22:428][496]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.41.22:602][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.10.01-18.41.26:082][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door01" FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset" SILENT=true
+[2019.10.01-18.41.26:103][823]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door01A836F3C14304F0837FF791BC65EFF139.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset'
+[2019.10.01-18.41.26:995][915]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.41.28:400][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.10.01-18.41.28:405][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.41.28:437][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.01-18.41.28:734][ 73]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap9CF4783C43E2ADEDF745A79214046212.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-18.41.28:813][ 73]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.403
+[2019.10.01-18.41.35:822][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.41.40:792][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.01-18.41.49:333][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.41.49:333][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-18.41.49:333][496]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 10:41:49 AM)
+[2019.10.01-18.41.49:334][496]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.01-18.41.49:335][496]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.41.49:369][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033840s)
+[2019.10.01-18.41.49:370][496]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-18.41.49:370][496]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2019.10.01-18.41.49:370][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035062s)
+[2019.10.01-18.41.49:398][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.01-18.41.49:431][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-18.41.49:556][496]LogInit: FAudioDevice initialized.
+[2019.10.01-18.41.49:557][496]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.41.49:562][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.41.49:564][496]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-18.41.49:568][496]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-14.41.49
+[2019.10.01-18.41.49:568][496]LogWorld: Bringing up level for play took: 0.003125
+[2019.10.01-18.41.49:568][496]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.01-18.41.49:579][496]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.01-18.41.49:582][496]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.685
+[2019.10.01-18.41.49:582][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.41.49:612][497]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-18.42.19:824][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.42.19:824][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.42.19:824][ 79]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.42.19:831][ 79]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-18.42.19:837][ 79]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-18.42.19:846][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-18.42.19:847][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.42.19:908][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.10.01-18.42.19:937][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.01-18.42.25:792][776]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.42.41:655][638]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.42.41:846][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.01-18.42.55:557][271]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.01-18.42.57:326][480]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.10.01-18.43.12:541][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.43.45:331][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.43.45:389][144]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-18.43.45:396][144]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.43.45:396][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-18.43.45:396][144]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 10:43:45 AM)
+[2019.10.01-18.43.45:396][144]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.43.45:431][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034603s)
+[2019.10.01-18.43.45:432][144]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-18.43.45:432][144]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2019.10.01-18.43.45:432][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035774s)
+[2019.10.01-18.43.45:473][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.10.01-18.43.45:504][144]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-18.43.45:629][144]LogInit: FAudioDevice initialized.
+[2019.10.01-18.43.45:636][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.43.45:636][144]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-18.43.45:640][144]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-14.43.45
+[2019.10.01-18.43.45:640][144]LogWorld: Bringing up level for play took: 0.003357
+[2019.10.01-18.43.45:641][144]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.01-18.43.45:645][144]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.621
+[2019.10.01-18.43.45:646][144]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.44.16:775][863]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1648.570 Y=1458.021 Z=199.305] for [FirstPersonProjectile_C]
+[2019.10.01-18.44.36:558][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.44.36:559][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.44.36:559][237]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.44.36:565][237]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-18.44.36:570][237]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-18.44.36:582][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-18.44.36:582][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.44.36:625][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.01-18.44.36:665][240]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.01-18.44.41:199][693]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.45.05:089][510]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.45.05:275][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.01-18.45.08:701][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.45.08:767][922]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-18.45.08:773][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.45.08:773][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-18.45.08:774][922]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 10:45:08 AM)
+[2019.10.01-18.45.08:774][922]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.45.08:807][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033785s)
+[2019.10.01-18.45.08:807][922]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-18.45.08:808][922]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2019.10.01-18.45.08:808][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034805s)
+[2019.10.01-18.45.08:838][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.01-18.45.08:871][922]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-18.45.08:996][922]LogInit: FAudioDevice initialized.
+[2019.10.01-18.45.09:003][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.45.09:003][922]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-18.45.09:007][922]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-14.45.09
+[2019.10.01-18.45.09:007][922]LogWorld: Bringing up level for play took: 0.003209
+[2019.10.01-18.45.09:007][922]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.01-18.45.09:013][922]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.748
+[2019.10.01-18.45.09:013][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.46.18:457][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.46.18:457][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.46.18:457][235]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.46.18:464][235]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-18.46.18:468][235]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-18.46.18:480][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-18.46.18:481][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.46.18:521][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.10.01-18.46.18:556][239]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: request failed, libcurl error: 0 (No error)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2572b5b7f70 [can pipeline])
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 1 (Re-using existing connection! (#28) with host datarouter.ol.epicgames.com)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.59.58) port 443 (#28))
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 7 (Closing connection 28)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: 00000257629C0680: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-18.47.41:873][237]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-18.52.10:814][379]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.53.59:609][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.01-18.53.59:934][363]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_Auto2142B752C43970AF05FE32CAB92D754CA.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.10.01-18.53.59:937][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.358
+[2019.10.01-18.53.59:937][363]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2019.10.01-18.53.59:939][363]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door01] ([1] browsable assets)...
+[2019.10.01-18.53.59:951][363]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door01.BP_Door01]
+[2019.10.01-18.53.59:951][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door01]
+[2019.10.01-18.54.00:015][363]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door01_Auto20F82E16B49045502B35AE28F62B8ADEB.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Autosaves/Game/Blueprints/BP_Door01_Auto2.uasset'
+[2019.10.01-18.54.00:016][363]LogFileHelpers: Auto-saving content packages took 0.079
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: request failed, libcurl error: 0 (No error)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2572b5b7f70 [can pipeline])
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.235.212.28) port 443 (#30))
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 7 (Closing connection 30)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: 0000025723BA1940: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-18.54.41:852][373]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-18.56.02:121][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.56.12:269][203]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.10.01-18.56.56:269][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-18.57.04:195][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.57.04:270][363]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-18.57.04:276][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.57.04:276][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-18.57.04:276][363]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 10:57:04 AM)
+[2019.10.01-18.57.04:276][363]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.57.04:310][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034456s)
+[2019.10.01-18.57.04:311][363]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-18.57.04:311][363]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2019.10.01-18.57.04:311][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035530s)
+[2019.10.01-18.57.04:360][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.10.01-18.57.04:391][363]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-18.57.04:512][363]LogInit: FAudioDevice initialized.
+[2019.10.01-18.57.04:518][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.57.04:519][363]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-18.57.04:522][363]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-14.57.04
+[2019.10.01-18.57.04:523][363]LogWorld: Bringing up level for play took: 0.003378
+[2019.10.01-18.57.04:523][363]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.01-18.57.04:528][363]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.278
+[2019.10.01-18.57.04:528][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.57.21:391][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.57.21:391][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.57.21:391][371]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.57.21:398][371]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-18.57.21:402][371]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-18.57.21:413][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-18.57.21:413][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.57.21:452][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.01-18.57.21:498][375]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.01-18.57.32:476][249]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door01)
+[2019.10.01-18.57.35:101][462]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.57.45:468][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.01-18.58.02:609][456]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door01)
+[2019.10.01-18.58.12:339][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.58.37:979][383]BlueprintLog: New page: Compile BP_Door01
+[2019.10.01-18.58.38:168][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.10.01-18.58.42:926][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.58.43:017][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-18.58.43:023][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.58.43:023][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-18.58.43:023][932]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 10:58:43 AM)
+[2019.10.01-18.58.43:023][932]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.58.43:057][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033711s)
+[2019.10.01-18.58.43:058][932]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-18.58.43:058][932]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2019.10.01-18.58.43:058][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034794s)
+[2019.10.01-18.58.43:088][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.10.01-18.58.43:119][932]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-18.58.43:245][932]LogInit: FAudioDevice initialized.
+[2019.10.01-18.58.43:251][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.58.43:251][932]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-18.58.43:254][932]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-14.58.43
+[2019.10.01-18.58.43:254][932]LogWorld: Bringing up level for play took: 0.002836
+[2019.10.01-18.58.43:255][932]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.01-18.58.43:259][932]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.011
+[2019.10.01-18.58.43:260][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.59.42:376][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.59.42:377][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-18.59.42:377][ 12]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-18.59.42:384][ 12]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-18.59.42:389][ 12]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-18.59.42:398][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-18.59.42:398][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-18.59.42:437][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.01-18.59.42:482][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.01-19.00.18:736][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-19.01.31:184][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door2)
+[2019.10.01-19.01.31:991][ 96]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door2)
+[2019.10.01-19.01.32:877][201]LogEditorViewport: Clicking on Actor (LMB): BP_Door01_C (BP_Door2)
+[2019.10.01-19.01.32:954][209]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.01-19.02.08:471][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-19.02.08:520][448]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-19.02.08:526][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-19.02.08:526][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-19.02.08:526][448]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 11:02:08 AM)
+[2019.10.01-19.02.08:526][448]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-19.02.08:562][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035125s)
+[2019.10.01-19.02.08:562][448]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.01-19.02.08:563][448]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2019.10.01-19.02.08:563][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036362s)
+[2019.10.01-19.02.08:611][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.01-19.02.08:647][448]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-19.02.08:768][448]LogInit: FAudioDevice initialized.
+[2019.10.01-19.02.08:775][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-19.02.08:776][448]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.01-19.02.08:779][448]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-15.02.08
+[2019.10.01-19.02.08:779][448]LogWorld: Bringing up level for play took: 0.003181
+[2019.10.01-19.02.08:780][448]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.01-19.02.08:785][448]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.54
+[2019.10.01-19.02.08:785][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: request failed, libcurl error: 0 (No error)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2572b5b7f70 [can pipeline])
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.55.8) port 443 (#34))
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 7 (Closing connection 34)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: 00000257251A8540: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.01-19.02.41:828][401]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDD364C-4D0D-D292-A662-419ED983E0BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d195b692471d828745ac4ea1c3a00e3c%7C%7C1146bd03-9539-4627-9f73-6875d8318c61&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.01-19.03.00:067][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-19.03.00:068][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-19.03.00:068][589]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.01-19.03.00:074][589]LogSlate: Window 'Woods_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-19.03.00:078][589]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-19.03.00:086][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-19.03.00:086][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.01-19.03.00:124][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.01-19.03.00:172][593]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.01-19.06.50:883][274]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-19.06.50:920][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.10.01-19.06.51:247][274]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_Auto3F9FA22834A03789CA76C7193EBC90117.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.10.01-19.06.51:250][274]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.358
+[2019.10.01-19.06.51:250][274]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2019.10.01-19.06.51:252][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door01] ([1] browsable assets)...
+[2019.10.01-19.06.51:265][274]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door01.BP_Door01]
+[2019.10.01-19.06.51:265][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door01]
+[2019.10.01-19.06.51:287][274]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door01_Auto39A959AED4B0B6ECCE81436B861702F96.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/Autosaves/Game/Blueprints/BP_Door01_Auto3.uasset'
+[2019.10.01-19.06.51:366][274]LogFileHelpers: Auto-saving content packages took 0.114
+[2019.10.01-19.09.51:998][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-19.09.52:115][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.01-19.09.52:436][949]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap2C17370B48AB136BAA10779CC6F5B326.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-19.09.53:186][949]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/FirstPersonExampleMap_BuiltData52D735F344D1649A37D1E49DFA77B731.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.01-19.09.54:216][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-19.09.55:210][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.01-19.09.55:214][182]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-19.09.55:219][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door01" FILE="../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset" SILENT=true
+[2019.10.01-19.09.55:233][182]LogSavePackage: Moving '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Saved/BP_Door010A9F34C64D5E8460AA0DFFA5FE8D1B3C.tmp' to '../../../../../../Users/jwoods2/Documents/Unreal Projects/Woods_Escape/Content/Blueprints/BP_Door01.uasset'
+[2019.10.01-19.10.06:863][564]LogSlate: Window 'BP_Door01' being destroyed
+[2019.10.01-19.10.06:865][564]LogSlate: Window 'BP_Door01' being destroyed
+[2019.10.01-19.10.06:867][564]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-19.12.18:390][108]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-19.12.19:985][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
